@@ -6,11 +6,3 @@ print("El precio final es: " , precio)
 print(type(precio))
 mensaje="mensaje de prueba"
 mensaje[2]
-
-
-#Sangrias
-
-variable=1
-
-if(variable==1):
-    print("entro")
